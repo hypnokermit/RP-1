@@ -1642,7 +1642,7 @@
         "engine_config": "",
         "upgrade": false,
         "entry_cost_mods": "",
-        "identical_part_name": "",
+        "identical_part_name": "Vangaurd 1",
         "module_tags": [
             "Avionics",
             "NoResourceCostMult"
@@ -1668,7 +1668,7 @@
         "engine_config": "",
         "upgrade": false,
         "entry_cost_mods": "",
-        "identical_part_name": "",
+        "identical_part_name": "Vangaurd 2",
         "module_tags": [
             "Avionics",
             "NoResourceCostMult"
@@ -1694,7 +1694,7 @@
         "engine_config": "",
         "upgrade": false,
         "entry_cost_mods": "",
-        "identical_part_name": "",
+        "identical_part_name": "Vangaurd 3",
         "module_tags": [
             "Avionics",
             "NoResourceCostMult"

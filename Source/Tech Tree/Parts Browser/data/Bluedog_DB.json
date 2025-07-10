@@ -2004,6 +2004,78 @@
         ]
     },
     {
+        "name": "bluedog_Vanguard_Satellite1",
+        "title": "Vanguard 1 Probe Core",
+        "description": "",
+        "mod": "Bluedog DB",
+        "cost": "210",
+        "entry_cost": "4200",
+        "category": "AVIONICS",
+        "info": "Probe",
+        "year": "1958",
+        "technology": "earlyAvionics",
+        "ro": true,
+        "orphan": false,
+        "rp0_conf": true,
+        "spacecraft": "Vangaurd 1",
+        "engine_config": "",
+        "upgrade": false,
+        "entry_cost_mods": "",
+        "identical_part_name": "Vanguard 1",
+        "module_tags": [
+            "Avionics",
+            "NoResourceCostMult"
+        ]
+    },
+    {
+        "name": "bluedog_Vanguard_Satellite2",
+        "title": "Vanguard 2 Probe Core",
+        "description": "",
+        "mod": "Bluedog DB",
+        "cost": "240",
+        "entry_cost": "4800",
+        "category": "AVIONICS",
+        "info": "Probe",
+        "year": "1959",
+        "technology": "basicAvionics",
+        "ro": true,
+        "orphan": false,
+        "rp0_conf": true,
+        "spacecraft": "Vangaurd 2",
+        "engine_config": "",
+        "upgrade": false,
+        "entry_cost_mods": "",
+        "identical_part_name": "Vanguard 2",
+        "module_tags": [
+            "Avionics",
+            "NoResourceCostMult"
+        ]
+    },
+    {
+        "name": "bluedog_Vanguard_Satellite3",
+        "title": "Vanguard 3 Probe Core",
+        "description": "",
+        "mod": "Bluedog DB",
+        "cost": "260",
+        "entry_cost": "5200",
+        "category": "AVIONICS",
+        "info": "Probe",
+        "year": "1959",
+        "technology": "basicAvionics",
+        "ro": true,
+        "orphan": false,
+        "rp0_conf": true,
+        "spacecraft": "Vangaurd 3",
+        "engine_config": "",
+        "upgrade": false,
+        "entry_cost_mods": "",
+        "identical_part_name": "Vanguard 3",
+        "module_tags": [
+            "Avionics",
+            "NoResourceCostMult"
+        ]
+    },
+    {
         "name": "bluedog_Vega_Engine",
         "title": "X-405H",
         "description": "Engine for proposed Vega stage for NASA Atlas-Vega LV. Superceded by Atlas-Agena once NASA became aware of the USAF's Agena stage.",

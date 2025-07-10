@@ -1250,26 +1250,26 @@
         "module_tags": []
     },
     {
-        "name": "bluedog_Explorer1",
-        "title": "Explorer 1 Probe",
-        "description": "Explorer 1, the first satellite launched by the United States, was a very simple scientific probe of less than a dozen kilograms. It featured a cosmic ray detector and micrometeorite detectors, as well as temperature sensors. Mercury batteries provided a month of electricity for the high power transmitter and another two and a half months for the low-power transmitter.",
+        "name": "bluedog_Explorer_7",
+        "title": "Explorer 7 Probe",
+        "description": "A 1959 satellite designed to measure fluxes of solar x-rays, hydrogen spectral lines and cosmic rays, as well as collect micrometeorite impact data.",
         "mod": "Bluedog DB",
-        "cost": 60,
-        "entry_cost": 3160,
+        "cost": 220,
+        "entry_cost": 4400,
         "category": "AVIONICS",
         "info": "Probe",
-        "year": "1957",
-        "technology": "earlyAvionics",
+        "year": "1959",
+        "technology": "basicAvionics",
         "era": "02-SAT",
         "ro": true,
         "rp0": true,
         "orphan": false,
         "rp0_conf": true,
-        "spacecraft": "Explorer 1",
+        "spacecraft": "Explorer 7",
         "engine_config": "",
         "upgrade": false,
-        "entry_cost_mods": "1000, Science-Core-earlyAvionics",
-        "identical_part_name": "Explorer 1",
+        "entry_cost_mods": "",
+        "identical_part_name": "",
         "module_tags": [
             "Avionics",
             "NoResourceCostMult"
@@ -1400,6 +1400,32 @@
         "module_tags": [
             "EngineLiquidTurbo",
             "Hydrolox"
+        ]
+    },
+    {
+        "name": "bluedog_Juno1_Explorer1",
+        "title": "Explorer 1 Probe",
+        "description": "Explorer 1, the first satellite launched by the United States, was a very simple scientific probe of less than a dozen kilograms. It featured a cosmic ray detector and micrometeorite detectors, as well as temperature sensors. Mercury batteries provided a month of electricity for the high power transmitter and another two and a half months for the low-power transmitter.",
+        "mod": "Bluedog DB",
+        "cost": 60,
+        "entry_cost": 3160,
+        "category": "AVIONICS",
+        "info": "Probe",
+        "year": "1957",
+        "technology": "earlyAvionics",
+        "era": "02-SAT",
+        "ro": true,
+        "rp0": true,
+        "orphan": false,
+        "rp0_conf": true,
+        "spacecraft": "Explorer 1",
+        "engine_config": "",
+        "upgrade": false,
+        "entry_cost_mods": "1000, Science-Core-earlyAvionics",
+        "identical_part_name": "Explorer 1",
+        "module_tags": [
+            "Avionics",
+            "NoResourceCostMult"
         ]
     },
     {
@@ -1602,7 +1628,7 @@
         ]
     },
     {
-        "name": "bluedog_Pioneer1",
+        "name": "bluedog_Pioneer_1",
         "title": "Pioneer 1 Probe",
         "description": "The first spacecraft launched by NASA, in 1958. It was supposed to do a Moon flyby, but its rocket underperformed and it reentered the atmosphere two days after launch.",
         "mod": "Bluedog DB",
@@ -1628,7 +1654,7 @@
         ]
     },
     {
-        "name": "bluedog_Pioneer4",
+        "name": "bluedog_Pioneer_4",
         "title": "Pioneer 4 Probe",
         "description": "First US probe to escape Earth's gravitational pull after it flew by the Moon in 1959. The tiny spacecraft was spin-stabilised and carried a radiation experiment as well as two small photocells, which failed to trigger.",
         "mod": "Bluedog DB",
@@ -2475,32 +2501,6 @@
         "entry_cost_mods": "",
         "identical_part_name": "",
         "module_tags": []
-    },
-    {
-        "name": "bluedog_explorer7probe",
-        "title": "Explorer 7 Probe",
-        "description": "A 1959 satellite designed to measure fluxes of solar x-rays, hydrogen spectral lines and cosmic rays, as well as collect micrometeorite impact data.",
-        "mod": "Bluedog DB",
-        "cost": 220,
-        "entry_cost": 4400,
-        "category": "AVIONICS",
-        "info": "Probe",
-        "year": "1959",
-        "technology": "basicAvionics",
-        "era": "02-SAT",
-        "ro": true,
-        "rp0": true,
-        "orphan": false,
-        "rp0_conf": true,
-        "spacecraft": "Explorer 7",
-        "engine_config": "",
-        "upgrade": false,
-        "entry_cost_mods": "",
-        "identical_part_name": "",
-        "module_tags": [
-            "Avionics",
-            "NoResourceCostMult"
-        ]
     },
     {
         "name": "bluedog_rangerCore",

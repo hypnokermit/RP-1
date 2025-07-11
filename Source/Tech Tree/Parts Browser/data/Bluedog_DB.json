@@ -1982,7 +1982,7 @@
         "category": "AVIONICS",
         "info": "Probe",
         "year": "1960",
-        "technology": "",
+        "technology": "basicAvionics",
         "ro": true,
         "orphan": false,
         "rp0_conf": true,

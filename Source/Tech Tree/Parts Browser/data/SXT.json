@@ -716,7 +716,7 @@
         "engine_config": "",
         "upgrade": false,
         "entry_cost_mods": "",
-        "identical_part_name": "",
+        "identical_part_name": "Alouette",
         "module_tags": [
             "Avionics",
             "NoResourceCostMult"

@@ -895,7 +895,7 @@
         "engine_config": "",
         "upgrade": false,
         "entry_cost_mods": "",
-        "identical_part_name": "",
+        "identical_part_name": "Pioneer 10/11",
         "module_tags": [
             "Avionics",
             "NoResourceCostMult"
@@ -947,7 +947,7 @@
         "engine_config": "",
         "upgrade": false,
         "entry_cost_mods": "",
-        "identical_part_name": "",
+        "identical_part_name": "Pioneer 5",
         "module_tags": [
             "Avionics",
             "NoResourceCostMult"
@@ -973,7 +973,7 @@
         "engine_config": "",
         "upgrade": false,
         "entry_cost_mods": "",
-        "identical_part_name": "",
+        "identical_part_name": "Pioneer 6/7/8/9",
         "module_tags": [
             "Avionics",
             "NoResourceCostMult"
@@ -1590,7 +1590,7 @@
         "engine_config": "",
         "upgrade": false,
         "entry_cost_mods": "",
-        "identical_part_name": "",
+        "identical_part_name": "Tiros-1",
         "module_tags": [
             "Avionics",
             "NoResourceCostMult"
@@ -1616,7 +1616,7 @@
         "engine_config": "",
         "upgrade": false,
         "entry_cost_mods": "",
-        "identical_part_name": "",
+        "identical_part_name": "Transit-2A",
         "module_tags": [
             "Avionics",
             "NoResourceCostMult"
@@ -1642,7 +1642,7 @@
         "engine_config": "",
         "upgrade": false,
         "entry_cost_mods": "",
-        "identical_part_name": "",
+        "identical_part_name": "Vangaurd 1",
         "module_tags": [
             "Avionics",
             "NoResourceCostMult"
@@ -1668,7 +1668,7 @@
         "engine_config": "",
         "upgrade": false,
         "entry_cost_mods": "",
-        "identical_part_name": "",
+        "identical_part_name": "Vangaurd 2",
         "module_tags": [
             "Avionics",
             "NoResourceCostMult"
@@ -1694,7 +1694,7 @@
         "engine_config": "",
         "upgrade": false,
         "entry_cost_mods": "",
-        "identical_part_name": "",
+        "identical_part_name": "Vangaurd 3",
         "module_tags": [
             "Avionics",
             "NoResourceCostMult"

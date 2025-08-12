@@ -1,7 +1,7 @@
 import csv
 import json
 import sys
-from os import listdir
+from os import listdir, walk
 from os.path import isfile, join
 
 class PartData:
@@ -62,14 +62,22 @@ class PartData:
     # if we're running from the bundled application, we use ../data/
     def load_parts_json(self):
         directory = 'data/'
-        onlyfiles = [f for f in listdir(directory) if isfile(join(directory, f))]
-        for file_name in onlyfiles:
-            if file_name.endswith('.json'):
-                f = open(join(directory, file_name))
-                data = json.load(f)
-                f.close()
-                self.parts.extend(data)
-                print(f'Loaded {len(data)} parts from {file_name}')
+        #onlyfiles = [f for f in listdir(directory) if isfile(join(directory, f))]
+        #for file_name in onlyfiles:
+        #    if file_name.endswith('.json'):
+        #        f = open(join(directory, file_name))
+        #        data = json.load(f)
+        #        f.close()
+        #        self.parts.extend(data)
+        #        print(f'Loaded {len(data)} parts from {file_name}')
+        for path, subdirs, files in walk(directory):
+             for name in files:
+                  if name.endswith('.json'):
+                       f = open(join(path,name))
+                       data = json.load(f)
+                       f.close()
+                       self.parts.extend(data)
+                       print(f'Loaded {len(data)} parts from {name}')
         self.parts.sort(key=lambda x: x['name'] if x['name'].lower() is not None and len(x['name']) > 0 else x['title'].lower())
         
         # find any duplicate part names and report them

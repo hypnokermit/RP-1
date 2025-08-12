@@ -46,8 +46,8 @@ class TechMapping:
         self.unique_years.add(year)
         
         if category in self.tech_map:
-            if year in self.tech_map[category]:
-                print("Error, duplicate tech mapping row: " + category + " - " + year)
+            #if year in self.tech_map[category]:
+            #    print("Error, duplicate tech mapping row: " + category + " - " + year)
             self.tech_map[category][year] = tech_required
         else:
             self.tech_map[category] = {year: tech_required}

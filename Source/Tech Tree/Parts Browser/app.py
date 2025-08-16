@@ -13,6 +13,9 @@ from tree_parts_cfg_generator import generate_parts_tree
 from ecm_engines_cfg_generator import generate_ecm_engines
 from ecm_parts_cfg_generator import generate_ecm_parts
 from identical_parts_cfg_generator import generate_identical_parts
+from avionics_generator import generate_avionics
+from tooling_generator import generate_tooling
+from training_generator import generate_training
 
 part_data = PartData()
 tech_mapping = TechMapping()
@@ -132,6 +135,9 @@ def create_app(test_config=None):
         generate_identical_parts(part_data.parts)
         generate_ecm_parts(part_data.parts)
         generate_ecm_engines(part_data.parts)
+        generate_avionics(part_data.parts)
+        generate_tooling(part_data.parts)
+        generate_training(part_data.parts)
         return "true"
 
     @app.route('/api/reload_data')

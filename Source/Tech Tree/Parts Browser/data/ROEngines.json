@@ -1002,7 +1002,7 @@
         "engine_config": "Alcyone1",
         "upgrade": false,
         "entry_cost_mods": "Alcyone-1",
-        "identical_part_name": "",
+        "identical_part_name": "Alcyone1",
         "module_tags": [
             "EngineSolid"
         ]
@@ -1026,7 +1026,7 @@
         "engine_config": "Algol-I",
         "upgrade": false,
         "entry_cost_mods": "Algol-I",
-        "identical_part_name": "",
+        "identical_part_name": "Algol1",
         "module_tags": [
             "EngineSolid"
         ]
@@ -1050,7 +1050,7 @@
         "engine_config": "Algol-I",
         "upgrade": false,
         "entry_cost_mods": "1000, Algol-I",
-        "identical_part_name": "",
+        "identical_part_name": "Algol1-Inline",
         "module_tags": [
             "EngineSolid"
         ]
@@ -1074,7 +1074,7 @@
         "engine_config": "Algol-II",
         "upgrade": false,
         "entry_cost_mods": "Algol-II",
-        "identical_part_name": "",
+        "identical_part_name": "Algol2",
         "module_tags": [
             "EngineSolid"
         ]
@@ -1098,7 +1098,7 @@
         "engine_config": "Algol-II",
         "upgrade": false,
         "entry_cost_mods": "1000, Algol-II",
-        "identical_part_name": "",
+        "identical_part_name": "Algol2-Inline",
         "module_tags": [
             "EngineSolid"
         ]
@@ -1122,7 +1122,7 @@
         "engine_config": "Algol-III",
         "upgrade": false,
         "entry_cost_mods": "Algol-III",
-        "identical_part_name": "",
+        "identical_part_name": "Algol3",
         "module_tags": [
             "EngineSolid"
         ]
@@ -1146,7 +1146,7 @@
         "engine_config": "Algol-III",
         "upgrade": false,
         "entry_cost_mods": "1000,Algol-III",
-        "identical_part_name": "",
+        "identical_part_name": "Algol3-Inline",
         "module_tags": [
             "EngineSolid"
         ]
@@ -1320,7 +1320,7 @@
         "engine_config": "Antares-I",
         "upgrade": false,
         "entry_cost_mods": "Antares-I",
-        "identical_part_name": "",
+        "identical_part_name": "Antares1",
         "module_tags": [
             "EngineSolid"
         ]
@@ -1344,7 +1344,7 @@
         "engine_config": "Antares-I",
         "upgrade": false,
         "entry_cost_mods": "1000, Antares-I",
-        "identical_part_name": "",
+        "identical_part_name": "Antares1-Inline",
         "module_tags": [
             "EngineSolid"
         ]
@@ -1368,7 +1368,7 @@
         "engine_config": "Antares-II",
         "upgrade": false,
         "entry_cost_mods": "Antares-II",
-        "identical_part_name": "",
+        "identical_part_name": "Antares2",
         "module_tags": [
             "EngineSolid"
         ]
@@ -1392,7 +1392,7 @@
         "engine_config": "Antares-II",
         "upgrade": false,
         "entry_cost_mods": "1000, Antares-II",
-        "identical_part_name": "",
+        "identical_part_name": "Antares2-Inline",
         "module_tags": [
             "EngineSolid"
         ]
@@ -1416,7 +1416,7 @@
         "engine_config": "Star-31",
         "upgrade": false,
         "entry_cost_mods": "Star-31",
-        "identical_part_name": "",
+        "identical_part_name": "Antares3",
         "module_tags": [
             "EngineSolid"
         ]
@@ -1440,7 +1440,7 @@
         "engine_config": "Star-31",
         "upgrade": false,
         "entry_cost_mods": "1000, Star-31",
-        "identical_part_name": "",
+        "identical_part_name": "Antares3-Inline",
         "module_tags": [
             "EngineSolid"
         ]
@@ -2080,7 +2080,7 @@
         "engine_config": "XM-20",
         "upgrade": false,
         "entry_cost_mods": "1000,XM-20",
-        "identical_part_name": "",
+        "identical_part_name": "Castor 1 Inline",
         "module_tags": [
             "EngineSolid"
         ]
@@ -2154,7 +2154,7 @@
         "engine_config": "Castor-2",
         "upgrade": false,
         "entry_cost_mods": "Castor-2",
-        "identical_part_name": "",
+        "identical_part_name": "Castor 2 Inline",
         "module_tags": [
             "EngineSolid"
         ]
@@ -2274,7 +2274,7 @@
         "engine_config": "",
         "upgrade": false,
         "entry_cost_mods": "0",
-        "identical_part_name": "",
+        "identical_part_name": "CastorDecoupler",
         "module_tags": []
     },
     {
@@ -4516,7 +4516,7 @@
         "engine_config": "NERVA_XE",
         "upgrade": false,
         "entry_cost_mods": "NERVA-XE-Hydrogen",
-        "identical_part_name": "",
+        "identical_part_name": "NERVA XE",
         "module_tags": [
             "EngineLiquidTurbo",
             "Nuclear"
@@ -7016,7 +7016,7 @@
         "engine_config": "",
         "upgrade": false,
         "entry_cost_mods": "SRMU",
-        "identical_part_name": "",
+        "identical_part_name": "SRMU",
         "module_tags": [
             "EngineSolid"
         ]
@@ -7662,7 +7662,7 @@
         "engine_config": "SIVUllageMotor",
         "upgrade": false,
         "entry_cost_mods": "TX-280",
-        "identical_part_name": "",
+        "identical_part_name": "SIVUllageMotor",
         "module_tags": [
             "EngineSolid"
         ]
@@ -8095,7 +8095,7 @@
         "engine_config": "X405",
         "upgrade": false,
         "entry_cost_mods": "X-405H",
-        "identical_part_name": "",
+        "identical_part_name": "X405H",
         "module_tags": [
             "EngineLiquidTurbo"
         ]
@@ -8120,7 +8120,7 @@
         "engine_config": "X405",
         "upgrade": false,
         "entry_cost_mods": "X-405H",
-        "identical_part_name": "",
+        "identical_part_name": "X405H",
         "module_tags": [
             "EngineLiquidTurbo"
         ]
